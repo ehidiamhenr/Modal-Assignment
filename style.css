@@ -1,0 +1,15 @@
+.img-fluid{
+height:350px ;
+}
+.small, small{
+font-size: 50%;
+}
+.row{
+margin-right: -4px;
+}
+.form-control{
+border-radius: 0px; ;
+}
+.btn{
+border-radius: 0px;
+}
